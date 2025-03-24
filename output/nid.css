@@ -1,0 +1,82 @@
+
+
+.niddiv {
+    position: relative;
+    max-width: 400px;
+    min-width: 400px;
+    max-height: 280px;
+    min-height: 280px;
+    background: #ffffff;
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .indimg {
+    position: absolute;
+    width: 50px;
+  }
+  
+  .name {
+  
+    position: absolute;
+    font-family: system-ui;
+    top: 94px;
+    left: 158px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .ename {
+  
+    position: absolute;
+    font-family: system-ui;
+    top: 121px;
+    left: 158px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .fname {
+  
+    position: absolute;
+    font-family: system-ui;
+    top: 149px;
+    left: 158px;
+    font-size: 14px;
+  }
+  
+  .mname {
+  
+    position: absolute;
+    font-family: system-ui;
+    top: 178px;
+    left: 158px;
+    font-size: 14px;
+  }
+  
+  .nid {
+    position: absolute;
+    top: 220px;
+    left: 160px;
+    font-family: system-ui;
+    color: red
+  }
+  
+  .dob {
+    position: absolute;
+    font-family: system-ui;
+    top: 198px;
+    left: 196px;
+    color: red;
+  }
+  
+  .nidpic {
+    position: absolute;
+    font-family: system-ui;
+    top: 101px;
+    left: 23px;
+    width: 83px;
+    height: 90px;
+  
+  }
+  
