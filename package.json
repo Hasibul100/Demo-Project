@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "tailwindcss -i ./src/index.css -o ./output/tailwind.css -w",
+    "builder": "tailwindcss -i ./src/index.css -o ./output/tailwind.css -w",
+    "build": "vite build" ,
     "lint": "eslint .",
     "preview": "vite preview"
   },
